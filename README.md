@@ -8,6 +8,10 @@ https://www.blackhillsinfosec.com/three-simple-disguises-for-evading-antivirus/
 
 ## Setting up
 
+Project is set up for DotNet Core 2.0.3;
+https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.3.md
+
+
 ## Running
 
 
